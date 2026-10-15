@@ -4,7 +4,7 @@ import os
 import discord
 
 CHANNEL_ID = 1426814903607623823
-ROLE_ID = 1560082009282318448
+ROLE_ID = 1555620188471431218
 
 logging.basicConfig(level=logging.INFO)
 
